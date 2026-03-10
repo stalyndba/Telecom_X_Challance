@@ -50,4 +50,4 @@ Más detalles y visualizaciones se encuentran en el archivo `reports/informe_fin
    jupyter notebook notebooks/Telecom-X-Alura.ipynb
 
 ## Autor
-Proyecto desarrollado por **Víctor Farías Sarango** como parte del programa **Alura ONE - Data Science LATAM**.
+Proyecto desarrollado por **Stalyn Javier Gonzalez Cepeda* como parte del programa **Alura ONE - Data Science LATAM**.
